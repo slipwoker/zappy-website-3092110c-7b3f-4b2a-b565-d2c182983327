@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+דור לדור מחבר בין דורות דרך סיפורי שואה אינטראקטיביים, עדויות חיות ולמידה חדשנית. הצטרף לתנועה שמשמרת את המורשת לדור הבא — כי הזיכרון הוא כוח.
+
+### עדויות ולמידה
+https://example.com/testimonies-learning
+צלול לתוך עדויות וידאו אינטראקטיביות ועוזר למידה מבוסס בינה מלאכותית. חקר גנאלוגיה משפחתית בישראל מעולם לא היה כה עמוק, נגיש ומרגש — התחל ללמוד עכשיו.
+
+### קהילה
+https://example.com/community
+פורום קהילתי תוסס שבו דור Z שואל, חולק ומגלה. שתף שאלות, עץ משפחה דיגיטלי וזיכרונות עם אלפי חברים שמאמינים ששימור מורשת משפחתית הוא שליחות — הצטרף היום.
+
+### צור קשר
+https://example.com/contact
+רוצה להביא את סיפור משפחתך לפלטפורמת דור לדור? צור איתנו קשר עוד היום ונעזור לך לשמר, לתעד ולהנחיל את המורשת לדורות הבאים — כי כל סיפור ראוי להישמע.
+
+### Products
+https://example.com/products
+המוצרים שלנו - דור לדור
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - דור לדור
+
+### Category
+https://example.com/category/:slug
+מוצרים - דור לדור
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
